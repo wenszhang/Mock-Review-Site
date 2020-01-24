@@ -1,0 +1,1666 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+	
+	<head>
+		<script type="text/javascript">
+			<!--
+			if(top.frames.length > 0)
+			top.location.href=self.location;
+			//-->
+		</script>
+        
+
+		
+		
+
+
+
+
+
+
+  
+
+
+
+
+	
+		<meta property="fb:app_id" content="324969540859009" />
+	
+
+	
+	<meta property="og:url" content="https://www.newsreview.com/sacramento/best-worst-of-wide/content?oid=29488708" />
+	<meta property="og:site_name" content="Sacramento News & Review" />
+	<meta property="og:title" content="Best and worst of wide release movies in 2019 - Arts & Culture - Arts&Culture - December 26, 2019" />
+
+	
+
+	  
+
+	
+	
+		<link rel="image_src" href="https://newsreview.com/imager/b/facebooksm/29488708/212c/arts1-1.jpg" />
+		<meta property="og:image" content="https://newsreview.com/imager/b/facebooksm/29488708/212c/arts1-1.jpg" />
+	
+
+	
+	
+		<meta property="og:description" content="Strong adaptations of familiar stories, but also some dreadful scripts and performances." />
+	
+
+
+
+
+	
+	
+	
+
+	
+	
+
+
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<meta http-equiv="Window-target" content="_top" />
+		<meta http-equiv="Content-Language" content="en" />
+		<meta name="Distribution" content="Global" />
+		<meta name="Rating" content="General" />
+		<meta name="Owner" content="Chico Community Publishing" />
+
+		
+			<meta name="Author" content="Daniel Barnes" />
+<meta name="description" content="By Daniel Barnes. Strong adaptations of familiar stories, but also some dreadful scripts and performances.   Published on December 26, 2019 as Arts & Culture in the Arts&Culture section of the Sacramento News &amp; Review" />  
+<meta name="Copyright" content="Copyright 2019, Chico Community Publishing, Inc." />
+<link rel="canonical" href="https://www.newsreview.com/sacramento/content?oid=29488708" />
+<link rel="shorturl" href="https://newsreview.com/29488708" />
+		
+		
+		<title>Sacramento News &amp; Review - 
+			
+				Best and worst of wide release movies in 2019 - Arts & Culture - Arts&Culture - December 26, 2019</title>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://www.newsreview.com/favicon/snr/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="https://www.newsreview.com/favicon/snr/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="https://www.newsreview.com/favicon/snr/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="https://www.newsreview.com/favicon/snr/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="https://www.newsreview.com/favicon/snr/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://www.newsreview.com/favicon/snr/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="https://www.newsreview.com/favicon/snr/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www.newsreview.com/favicon/snr/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.newsreview.com/favicon/snr/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="https://www.newsreview.com/favicon/snr/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://www.newsreview.com/favicon/snr/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="https://www.newsreview.com/favicon/snr/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://www.newsreview.com/favicon/snr/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="https://www.newsreview.com/favicon/snr/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="/styles/newsreview/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="/styles/newsreview/newstyle1.css" type="text/css" media="screen" />
+		
+		
+		
+		
+		
+		
+		<script type="text/javascript">GA_googleAddAttr("Section", "Arts_Culture");</script>
+		
+		
+		
+			<script type="text/javascript" src="/scripts/new/dom.js"></script>
+		
+		
+		<script type="text/javascript" src="/gyrobase/tools/include2.js"></script>
+		<script type="text/javascript" src="/scripts/newsreview/jquery.js"></script>
+	<script type="text/javascript" src="/scripts/jw/swfobject.js"></script>
+	<script type="text/javascript" src="/scripts/newsreview/prototype.js"></script>
+	<script type="text/javascript" src="/scripts/newsreview/scriptaculous.js"></script>
+	
+
+	<script type="text/javascript">
+		var dynLib = new GyrobaseAjaxLibrary("/mods/dyn_home");
+		var SpotOidToBlock;
+		var CalOidToBlock ;
+          
+		function getCalendar(SpotOid) {
+			
+			
+			var params = { "AdminOid": "2572", "ScriptAlias": "sacramento", "OidToBlock": CalOidToBlock, "SpotToBlock": SpotOid, "PublicKey": "1579880404", "hash": "fe3086fae7709b38444c3456ce0ee98e" };
+			dynLib.runMacro("getCalendar", params, function (response) { document.getElementById('CalendarContent').innerHTML = response["output"]; CalOidToBlock = response["oid"]; });
+		}  
+		
+
+		
+
+				var passwordLib = new GyrobaseAjaxLibrary("/ajax/passwordMacros");
+				var ballotLib = new GyrobaseAjaxLibrary("/ajax/ballotMacros");
+
+			var showLogout = 0;
+
+			function pageLoad() {
+				var f3 = document.getElementById("f3");
+				if (readCookie('login')) {
+					
+					
+					var params = { "login": readCookie('login'), "PublicKey": "1579880404", "hash": "f888838e3094eafbc60e70e5477c56e9" } ;
+					passwordLib.runMacro("getHandle", params, function (response) { 
+						if (document.getElementById('loginForm') !== null) { 
+							if (response["status"] == 1) {
+								document.getElementById('tmpUser').innerHTML = '&nbsp;' + response["Handle"];
+								ShowHide('loginForm','hide','');
+								Effect.toggle('welcome', 'blind', {queue: 'end', duration: '.25'});
+								showLogout = 1;
+							} else {
+								ShowHide('welcome','hide','');
+								Effect.toggle('loginForm', 'blind', {queue: 'end', duration: '.25'});
+							}
+						}
+						if (document.getElementById('CommentLoginForm') !== null) {
+							if (response["status"] == 1) {
+								document.getElementById('CommentUser').innerHTML = ',&nbsp;' + response["Handle"];
+								document.getElementById('auth').value = readCookie('auth');
+								ShowHide('CommentLoginForm','hide','');
+								Effect.toggle('leaveComment', 'blind', {queue: 'end', duration: '.25'});
+								showLogout = 1;
+							} else {
+								ShowHide('CommentLoginForm','show','');
+								eraseCookie('login');
+								eraseCookie('auth');
+							}
+						}
+					}, function (error) {
+						var ifrm = document.createElement("IFRAME");
+						ifrm.setAttribute("src", "/sacramento/WhackBack?return=/sacramento/best-worst-of-wide/content%3Foid%3D29488708");
+						ifrm.style.width = 0+"px";
+						ifrm.style.height = 0+"px";
+						document.body.appendChild(ifrm); 
+						//alert("This page generated an error.\n\nThe page is being rebuilt, and you will be redirected to the fresh page momentarily.");
+						setTimeout('window.location.reload(true);',2000);
+					});
+					if (showLogout == 1) {
+								document.getElementById('LoginOut').innerHTML = '<a href="\/sacramento\/Login?logout=1&pub=sacramento" class="footer">logout<\/a>&nbsp;|&nbsp;<a href="/sacramento/Login?changePass=1" class="footer">change password<\/a><br \/>';
+					}
+				} else {
+					if (document.getElementById('welcome') !== null) {
+						ShowHide('welcome','hide','');
+						Effect.toggle('loginForm', 'blind', {queue: 'end', duration: '.25'});
+					}
+					if (document.getElementById('CommentLoginForm') !== null) {
+						ShowHide('CommentLoginForm','show','');
+					}
+				}
+				if (readCookie('user') !== "" && readCookie('user') !== null) {
+					if (document.getElementById("loginUserName") !== null) {
+						document.getElementById("loginUserName").value = readCookie('user');
+					}
+				}
+			}
+
+			function logIn() {
+				document.getElementById("loginForm").disabled = true;
+				var userField = document.getElementById("loginUserName");
+				var passField = document.getElementById("loginPassword");
+				var user = userField.value;
+				var pass = passField.value;
+				document.getElementById("loginPassword").value = '';
+
+					
+					      
+					var params = { "loginUserName": user, "loginPassword": pass, "PublicKey": "1579880404", "hash": "64ad62e56218d85ec1a73e11dc654f73" };
+					passwordLib.runMacro("authenticate", params, 
+						function (response) { 
+							verifyLogin(response["auth"],response["user"],response["Cookie"],response["Handle"],response["status"]); 
+						}, 
+						function (error) {
+							var ifrm = document.createElement("IFRAME");
+							ifrm.setAttribute("src", "/sacramento/WhackBack?return=/sacramento/best-worst-of-wide/content%3Foid%3D29488708");
+							ifrm.style.width = 0+"px";
+							ifrm.style.height = 0+"px";
+							document.body.appendChild(ifrm); 
+							//alert("This page generated an error.\n\nThe page is being rebuilt, and you will be redirected to the fresh page momentarily.");
+							setTimeout('window.location.reload(true);',2000);
+						}
+					);
+			}
+
+			function verifyLogin(auth,user,Cookie,Handle,status) {
+				var f3 = document.getElementById("f3");
+				if (auth !== "") {
+					eraseCookie('login');
+					createCookie('login',user + ':' + Cookie,1);
+					createCookie('auth',auth,1);
+					location.replace('/sacramento/local/MyNR?reload=feff0da4e19a55d36b649e1bd4d3cdf0');
+				} else {
+					alert("The password you entered doesn't match the password on file for the username you entered.  Please try again.");
+				}
+				f3.login_btn.disabled = false;
+			}
+				
+			function logout() {
+				var user = document.getElementById("loginUserName").value;
+				if (document.getElementById('loginForm') !== null) {
+					document.body.style.cursor = "wait";
+					var f3 = document.getElementById("f3");
+					
+					document.getElementById("loginForm").disabled = false;
+					eraseCookie('login');
+					eraseCookie('auth');
+					
+					Effect.toggle('welcome', 'blind', {queue: 'front', duration: '.25'}) ;
+					Effect.toggle('loginForm', 'blind', {queue: 'end', duration: '.25'});
+					scroll(0,0);      
+					
+					document.getElementById("LoginOut").innerHTML = " ";
+					document.getElementById("btn_logout").style.cursor = "default";
+					document.body.style.cursor = "default";
+				}
+				if (document.getElementById('CommentLoginForm') !== null) {
+					document.body.style.cursor = "wait";
+					
+					document.getElementById("CommentLoginForm").disabled = false;
+					eraseCookie('login');
+					eraseCookie('auth');
+					Effect.toggle('leaveComment', 'blind', {queue: 'front', duration: '.25'}) ;
+					Effect.toggle('CommentLoginForm', 'blind', {queue: 'end', duration: '.25'});
+					document.getElementById("LoginOut").innerHTML = " ";
+					document.getElementById("CommentBtn_logout").style.cursor = "default";
+					document.body.style.cursor = "default";
+				}
+			}
+		
+			
+		function readCookie(name) {
+			var nameEQ = name + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length,c.length);
+			}
+			return null;
+		}
+		
+		function createCookie(name,value,days) {
+			var expires;
+			if (days) {
+				var date = new Date();
+				date.setTime(date.getTime()+(days*24*60*60*1000));
+				expires = "; expires="+date.toGMTString();
+			}
+			else expires = "";
+			document.cookie = name+"="+value+expires+"; path=/";
+		}
+		
+		function eraseCookie(name) {
+			createCookie(name,"",-1);
+		}
+
+		function ShowHide(element, control, param) {
+			if (param === "") {
+				param = "inline";
+			}
+			var srcElement = document.getElementById(element);
+			var srcControl = control;
+			if(srcElement !== null) {
+				if(srcControl == "hide") {
+					srcElement.style.display='none';
+				}
+				else {
+					srcElement.style.display=param;
+				}
+				return false;
+			}
+		}  
+		
+	function flip(j) {
+				Effect.toggle('Comment-'+j, 'blind', {queue: 'front', duration: '.25'});
+				Effect.toggle('Comment-'+j+'-Full', 'blind', {queue: 'end', duration: '.25'});
+		}
+
+		function flop(j) {
+				Effect.toggle('Comment-'+j+'-Full', 'blind', {queue: 'front', duration: '.25'});
+				Effect.toggle('Comment-'+j, 'blind', {queue: 'end', duration: '.25'});
+		}
+	</script>
+<script type="text/javascript" charset="utf-8">
+	
+
+		function UpdateFrame(Zone, Height) {
+			parent.document.getElementById("ad"+Zone).style.height=Height+'px';
+		}
+</script>
+
+  <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+  <script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    googletag.cmd.push(function() {
+      
+        googletag.defineSlot('/1003962/nr_sacramento_160x180_1', [160, 180], 'div-gpt-ad-nr-160x180-1').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/nr_sacramento_160x180_2', [160, 180], 'div-gpt-ad-nr-160x180-2').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/nr_sacramento_160x180_3', [160, 180], 'div-gpt-ad-nr-160x180-3').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/nr_sacramento_160x180_4', [160, 180], 'div-gpt-ad-nr-160x180-4').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/nr_sacramento_160x180_5', [160, 180], 'div-gpt-ad-nr-160x180-5').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/nr_sacramento_160x60_1', [160, 60], 'div-gpt-ad-nr-160x60-1').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/nr_sacramento_160x60_2', [160, 60], 'div-gpt-ad-nr-160x60-2').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/nr_sacramento_160x60_3', [160, 60], 'div-gpt-ad-nr-160x60-3').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/nr_sacramento_160x600', [160, 600], 'div-gpt-ad-nr-160x600').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/nr_sacramento_232x90', [232, 90], 'div-gpt-ad-nr-232x90').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/nr_sacramento_728x90', [728, 90], 'div-gpt-ad-nr-728x90').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/sacramento_content_ad_300x250_1', [300, 250], 'div-gpt-ad_content_ad_300x250-1').addService(googletag.pubads());
+        googletag.defineSlot('/1003962/entry_728x90', [728, 90], 'div-gpt-ad-entry-728x90').addService(googletag.pubads());
+
+      
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+  </script>
+		<script type="text/javascript" src="https://www.newsreview.com/scripts/new/dom.js"></script>
+	<script type="text/javascript" src="https://www.newsreview.com/scripts/newsreview/content/content_slideshow.js"></script>
+
+	
+	<script type="text/javascript" src="/scripts/newsreview/textresize.js"></script>
+		
+	<link rel="alternate" type="application/rss+xml" title="SN&R's Weekly Table of Contents" href="https://www.newsreview.com/sacramento/RSS.xml?oid=2572" />
+	
+	
+		<link rel="alternate" type="application/rss+xml" title="SN&R's Arts&Culture Stories" href="https://www.newsreview.com/sacramento/RSS.xml?oid=36568" />
+	
+	
+		
+			
+		
+	
+
+	
+	
+	<style type="text/css">
+		h3.sectionHeader { font: 700 12px Verdana, Arial, Helvetica, sans-serif; background:#999999 none repeat scroll 0%; clear:both; color:#FFFFFF; margin-bottom:12px; margin-top:24px; padding:3px; }
+		h1.Headline {margin:0pt;}
+	</style>
+				
+		              
+		<script type="text/javascript" src="/scripts/newsreview/blankwin.js"></script>     
+	</head>
+	<body>
+	<div id="main">
+		
+		<div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+		
+		
+
+		<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<table width="990">
+		 <tr>
+				<td>
+					<div id="topBanner">
+						<div id="topLeftBannerText">
+							<img src="/images/AdV.gif" height="90" width="10" alt="paid advertising link" />
+						</div>
+						
+						<div id="topLeftBanner">
+						
+              <div id='div-gpt-ad-nr-728x90' style='height:90px; width:728px;'>
+                <script>
+                  googletag.cmd.push(function() { googletag.display('div-gpt-ad-nr-728x90'); });
+                </script>
+              </div>
+								
+						</div>
+						
+						<div id="topRightBanner">
+							
+								<div id='div-gpt-ad-nr-232x90' style='height:90px; width:232px;'>
+                <script>
+                  googletag.cmd.push(function() { googletag.display('div-gpt-ad-nr-232x90'); });
+                </script>
+              </div>								
+									
+						</div>
+						
+						<div id="topRightBannerText">
+							<img src="/images/promo.gif" height="90" width="10" alt="N&amp;R promotional link" />
+						</div>			
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table width="990" class="noprint">
+						<tr>
+							<td height="5"><img src="/images/spacer.gif" width="990" height="5" alt="" /></td>
+						</tr>
+						<tr>
+							<td height="70" valign="bottom" id="Nav"><a href="/sacramento/home"><img src="/images/Sacramentositebanner.gif" height="52" width="990" border="0" alt="Sacramento News &amp; Review" title="Sacramento News &amp; Review" /></a><br /><img src="/images/spacer.gif" width="990" height="1" alt="" /><br /><img src="/images/spacer.gif" width="12" height="12" alt="" /><a href="https://www.newsreview.com/sacramento/local_stories/more" class="nav">LOCAL&nbsp;STORIES</a>
+			<span style="white-space:nowrap"></span>|<span style="white-space:nowrap"></span>
+		
+			<a href="https://www.newsreview.com/sacramento/opinions/more" class="nav">OPINIONS</a>
+			<span style="white-space:nowrap"></span>|<span style="white-space:nowrap"></span>
+		
+			<a href="/sacramento/calendar" class="nav">CALENDAR</a>
+			<span style="white-space:nowrap"></span>|<span style="white-space:nowrap"></span>
+		
+			<a href="https://www.newsreview.com/sacramento/arts_culture/more" class="nav2">ARTS&amp;CULTURE</a>
+			<span style="white-space:nowrap"></span>|<span style="white-space:nowrap"></span>
+		
+			<a href="https://www.newsreview.com/sacramento/music/more" class="nav">MUSIC</a>
+			<span style="white-space:nowrap"></span>|<span style="white-space:nowrap"></span>
+		
+			<a href="https://www.newsreview.com/sacramento/dining/more" class="nav">DINING</a>
+			<span style="white-space:nowrap"></span>|<span style="white-space:nowrap"></span>
+		
+			<a href="https://www.newsreview.com/sacramento/film/more" class="nav">FILM</a>
+			<span style="white-space:nowrap"></span>|<span style="white-space:nowrap"></span>
+		
+			<a href="/sacramento/capital-cannabis" class="nav">CANNABIS</a>
+			<span style="white-space:nowrap"></span>|<span style="white-space:nowrap"></span>
+		
+			<a href="https://www.newsreview.com/sacramento/guides/more" class="nav">GUIDES</a>
+			<span style="white-space:nowrap"></span>|<span style="white-space:nowrap"></span>
+            
+		
+			<a href="https://www.newsreview.com/sacramento/nr_events/more" class="nav">N&amp;R&nbsp;EVENTS</a>
+			
+            
+		
+	
+    <span class="pull-right"><a href="/sacramento/search" class="nav" title="Search"><i class="fa fa-search"></i></a><span style="white-space:nowrap"></span> | <span style="white-space:nowrap"></span><a href="/sacramento/local/MyNR" class="nav" title="My Account"><i class="fa fa-user"></i></a>&nbsp;&nbsp;&nbsp;</span><br /><img src="/images/spacer.gif" width="990" height="3" alt="" /></td>
+						</tr>
+						<tr>
+							<td height="10"><img src="/images/spacer.gif" width="990" height="10" alt="" /></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td width="990">
+					<table class="MainBody">
+						<tr>
+							<td width="1"><img src="/images/spacer.gif" width="1" height="1" alt="" /></td>
+							<td width="822">
+			  <table class="MainBody">
+				<tr>
+				  <td id="ContentBody">
+					<div id="Content">
+
+
+
+
+	
+
+  
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+		<div class="ContentHeaderImage"><img src="/binary/4dcb/artsculture.gif" width="283" height="40" alt="Arts&Culture" /></div>
+	
+		
+	
+	<div id="share-container-top">
+			<span class="share-controls share-control-facebook">
+                <div class="fb-like" 
+                     data-href="https://www.newsreview.com/sacramento/best-worst-of-wide/content?oid=29488708" 
+                     data-layout="button_count" 
+                     data-action="like" 
+                     data-show-faces="true" 
+                     data-share="true">
+                 </div>
+			</span>
+			
+			
+			<span class="share-controls">
+				<a href="https://twitter.com/intent/tweet?text=Read%20at%20NewsReview.com:%20Best%20and%20worst%20of%20wide%20release%20movies%20in%202019&url=https://www.newsreview.com/sacramento/best-worst-of-wide/content?oid=29488708"
+				   class="twitter-share-button">Tweet</a>
+
+			</span>
+			<p class="clear"></p>
+		</div>
+	
+  
+<h1 class="Headline">Best and worst of wide release movies in 2019</h1>
+		
+		
+		  <div class="ContentSubHeadline">Strong adaptations of familiar stories, but also some dreadful scripts and performances</div>
+  <div class="ContentBodyText" >  
+   
+	<br />  
+	<span class="ContentBy">
+		By 
+		
+		<a rel="author" href="https://www.newsreview.com/sacramento/daniel-barnes/author">Daniel Barnes</a>
+	</span>
+	<br />
+	
+	    
+	  
+    
+	<span id="NumComments"></span>
+
+	  <br /><br />
+	  <div style="font-size:10px;">
+	  This article was published on <a href="https://www.newsreview.com/sacramento/2019-12-26/archive"><time itemprop="dtreviewed" datetime="2019-12-26">12.26.19</time></a>.
+	  </div>
+	  <br />
+  
+	
+  
+	
+  
+	
+  
+
+
+   
+     
+  
+
+  
+			
+
+
+  
+
+ 
+		
+		
+		
+		
+			
+			
+				
+				
+		
+				
+				
+				
+
+				
+
+				
+				
+				
+				
+			
+				
+				
+		
+				
+				
+				
+
+				
+
+				
+				
+				
+				
+			
+		
+		
+  
+
+  <div id="storyBody">
+	
+	
+		
+			
+		
+			<table border="0"  class="ContentImageRight" width="300" align="right">										<tr><td>					 										  														<img class="content-image" src="https://www.newsreview.com/imager/best-worst-of-wide/b/column300/29488708/212c/arts1-1.jpg"  alt="" title="" />																							<div class="ContentImgCaption">Brad Pitt in &#8216;Once Upon a Time in Hollywood&#8217;																														</td></tr>											<tr>						<td><div id="details-wrapper">																					 						     																																																																			  																																																					<div class="ContentInfoBox">							<b>Related stories this week:</b>																							<br /><a href="/sacramento/content?oid=29488709">Best and worst of 2019 indie and streaming films</a><br />							The year&#8217;s best had plot and character, the worst not so much.															<br />																																		<br /><a href="/sacramento/content?oid=29488710">In memoriam</a><br />							Verge Center for the Arts partners with Ali Youssefi&#8217;s family to create an artists in residency program in his honor.															<br />																								</div>										  																				<div class="ContentInfoBox">						<b>Related stories:</b> <br /><a href="/sacramento/content?oid=27507755">SN&amp;R&#8217;s best and worst films of 2018</a><br />							Our critics award and denounce this year&#8217;s standout films.<span class="MorePub"> SN&amp;R</span>, 12.27.18.							<br />																								<br /><a href="/sacramento/content?oid=25589907">This year&#8217;s best and worst films</a><br />							Abounding remakes aside, cinema brought us clear winners and stinkers.<span class="MorePub"> SN&amp;R</span>, 12.28.17.							<br />					</div>																																					<div id="content-ad-placement">			<small class="advertisement">Advertisement</small>											<div id='div-gpt-ad_content_ad_300x250-1' style='height:250px; width:300px;'>					<script>						googletag.cmd.push(function() { googletag.display('div-gpt-ad_content_ad_300x250-1'); });					</script>				</div>				<img src="/images/spacer.gif" alt="spacer" height="10" />					</div>		</div>				 <!-- End: div#details-wrapper --><br /></td>						</tr>										</table>
+
+<p><b><font size="+1">Best</b></p></font size>
+
+<p><b><i>Uncut Gems</p></b></i>
+
+<p>Directors Benny and Josh Safdie double down on the pure rush of their 2017 success <i>Good Time</i> with this adrenaline-soaked thriller. Adam Sandler gives the performance of the year as Howard Ratner, a New York City jeweler and danger addict barreling through the halls of power in search of the ultimate win. It&#8217;s great to get such a powerful reminder of Sandler&#8217;s remarkable talent before he wastes the next five to 10 years sleepwalking through made-for-Netflix comedies. The relentlessness energy of the protagonist in <i>Uncut Gems</i> is matched only by the Safdie brothers&#8217; direction.</p>
+
+<p><b><i>Once Upon a Time in Hollywood</p></b></i>
+
+<p>It&#8217;s so easy to luxuriate in the sights and sounds of Quentin Tarantino&#8217;s historical fantasy that you could overlook the richness of the text. <i>Once Upon a Time in Hollywood</i> is Tarantino&#8217;s most personal film, a career-encapsulating look at the ways that violence shapes our lives, both onscreen and off. As soon-to-be has-beens navigating the shifting tides of 1969 Hollywood, Leonardo DiCaprio and Brad Pitt deliver the most emotionally vulnerable performances of their careers.</p>
+
+<p><b><i>Midsommar</p></b></i>
+
+<p>This sun-drenched, psychedelia-tinged horror film from <i>Hereditary</i> director Ari Aster haunted me like nothing else released in 2019. Florence Pugh gives a gut-wrenching turn as a grieving student who follows her turd of a boyfriend to a festival in Sweden, only to find terrors beyond comprehension. Filled to the brim with beautifully disturbing images and ideas, <i>Midsommar</i> largely unfurls in broad daylight, with nowhere to hide.</p>
+
+<p><b><i>Toy Story 4</p></b></i>
+
+<p>Nobody except the suits at Disney clamored for a fourth <i>Toy Story</i> movie, and yet Pixar somehow made an unnecessary sequel that feels indispensable. The central plot gets recycled from pieces of the previous two entries, while the Buzz and Woody dynamic seems dramatically pointless. <i>Toy Story 4</i> instead finds its soul and meaning in a collection of new and engaging toys, especially the semi-suicidal Forky (Tony Hale) and the dorky daredevil Duke Kaboom (Keanu Reeves).</p>
+
+<p><b><i>Little Women</p></b></i>
+
+<p>A sixth film adaptation of Louisa May Alcott&#8217;s 1868 novel might seem even less necessary than a fourth <i>Toy Story</i>. However, writer-director Greta Gerwig makes the material feel vital and modern, delivering an equally challenging and crowd-pleasing movie. Rather than a straightforward adaptation, Gerwig takes a nonlinear approach to the story, focusing on the relationships between the March sisters. Saorise Ronan, Florence Pugh, Emma Watson and Laura Dern lead an excellent ensemble cast.</p>
+
+<table border="0" class="ContentImageLeft" width="300" align="left">										<tr><td>					 										  														<img class="content-image" src="https://www.newsreview.com/imager/best-worst-of-wide/b/column300/29488708/c24c/arts1-2.jpg"  alt="" title="" />																							<div class="ContentImgCaption">Cate Blanchett in &#8216;Where&#8217;d You Go, Bernadette&#8217;																														</td></tr>											 <tr>						<td><br /></td>						</tr>																</table>
+
+<p><b><font size="+1">Worst</b></p></font size>
+
+<p><b><i>Glass</p></b></i>
+
+<p>Like Tarantino in <i>Once Upon a Time in Hollywood</i>, M. Night Shyamalan reexamines his cinematic past with <i>Glass</i>. Instead of the culmination to a grand career, though, Shyamalan reaches his rock bottom of hacky gimmicks and clueless storytelling. James McAvoy gives a game effort, but Bruce Willis and Samuel L. Jackson seem thoroughly defeated by the dreadful script.</p>
+
+<p><b><i>Aladdin</p></b></i>
+
+<p>Just as swollen and garish and painfully unnecessary as the four other Disney live-action remakes of animated films released in 2019. So why single out <i>Aladdin</i> for scorn? Because you can never unsee the horror of a dance sequence directed by Guy Ritchie.</p>
+
+<p><b><i>Yesterday</p></b></i>
+
+<p>Given full access to The Beatles songbook and an irresistible story idea, director Danny Boyle and screenwriter Richard Curtis manage to make a film more disastrous than 1978&#8217;s <i>Sgt. Pepper&#8217;s Lonely Hearts Club Band</i>. Absent of any recognizable human emotions, <i>Yesterday</i> misunderstands The Beatles, but also all music, all art, fame, love, death and so much more.</p>
+
+<p><b><i>Avengers: Endgame</p></b></i>
+
+<p><i>Captain Marvel</i> was more of the same Marvel Cinematic Universe tripe, but <i>Avengers: Endgame</i> was the most of the same MCU tripe. There were 21 of these movies released this decade, with the anti-climactic <i>Endgame</i> functioning only as slavering fan service. <i>Avengers: Infinity War</i> at least had the good taste to abstain from Jeremy Renner. No such luck in <i>Endgame</i>.</p>
+
+<p><b><i>Where&#8217;d You Go, Bernadette</p></b></i>
+
+<p><i>Frozen 2</i> and <i>Hobbs &amp; Shaw</i> were louder and dumber, but neither film disheartened me more than this lifeless scribble from director Richard Linklater. Even Cate Blanchett can&#8217;t breathe life into the role of the title character, an increasingly reclusive and antisocial genius. <i>Where&#8217;d You Go Bernadette</i> is Linklater&#8217;s 19th feature film, and it&#8217;s also his worst.</p>
+		
+
+		
+		
+
+		
+		
+	</div>
+
+  <br /> 
+  
+   
+   <div class="PageNav">
+   
+   
+   </div>
+  
+	
+	
+	
+		<div id="share-container-top">
+			<span class="share-controls share-control-facebook">
+                <div class="fb-like" 
+                     data-href="https://www.newsreview.com/sacramento/best-worst-of-wide/content?oid=29488708" 
+                     data-layout="button_count" 
+                     data-action="like" 
+                     data-show-faces="true" 
+                     data-share="true">
+                 </div>
+			</span>
+			
+			
+			<span class="share-controls">
+				<a href="https://twitter.com/intent/tweet?text=Read%20at%20NewsReview.com:%20Best%20and%20worst%20of%20wide%20release%20movies%20in%202019&url=https://www.newsreview.com/sacramento/best-worst-of-wide/content?oid=29488708"
+				   class="twitter-share-button">Tweet</a>
+
+			</span>
+			<p class="clear"></p>
+		</div>
+	
+
+  <a href="/sacramento/Contact?content=29488708">Contact us about this story</a><br /><br />
+  
+  <b>RELATED LINKS:<br /></b>
+   <div class="MoreAll"><a href="https://www.newsreview.com/sacramento/arts_culture/all?oid=36245">See all stories published in Arts & Culture</a></div>
+   <div class="MoreAll"><a href="/sacramento/all?oid=oid%3A36568">See all stories published in Arts&Culture</a></div>
+  </div>
+
+  
+
+<script language="JavaScript" type="text/javascript">
+
+    commentLib = new GyrobaseAjaxLibrary("/ajax/commentMacros");
+
+    function logInComment() {
+
+      document.getElementById("CommentLoginForm").disabled = true;
+      var userField = document.getElementById("loginUserName");
+      var passField = document.getElementById("loginPassword");
+      var user = userField.value;
+      var pass = passField.value;
+      document.getElementById("loginPassword").value = '';
+
+	  
+	        
+	  var params = { "loginUserName": user, "loginPassword": pass, "PublicKey": "1579880404", "hash": "64ad62e56218d85ec1a73e11dc654f73" };
+
+		passwordLib.runMacro("authenticate", params, 
+			function (response) { 
+				verifyLoginComment(response["status"],response["auth"],response["user"],response["Cookie"],response["Handle"],0);
+			},
+			function (error) {
+				var ifrm = document.createElement("IFRAME");
+				ifrm.setAttribute("src", "/sacramento/WhackBack?return=/sacramento/best-worst-of-wide/content%3Foid%3D29488708");
+				ifrm.style.width = 0+"px";
+				ifrm.style.height = 0+"px";
+				document.body.appendChild(ifrm); 
+				alert("This page generated an error.\n\nThe page is being rebuilt, and you will be redirected to the fresh page momentarily.\n\nPlease try again.");
+				setTimeout('window.location.reload(true);',2000);
+			}
+		);
+    }
+
+
+	function postAnonymousComment(){
+
+		document.getElementById("CommentLoginForm").disabled = true;
+		var userField = document.getElementById("anonUserName");
+		var user = userField.value;
+		var siteID = document.getElementById("siteID").value;
+		
+		
+		      
+		var params = { "loginUserName": user, "Site": siteID, "PublicKey": "1579880404", "hash": "3b082120b719beda37df85aeabc0351d" };
+
+		passwordLib.runMacro("authenticateAnon", params, 
+			function (response) { 
+				if (response["ErrorMsg"]){
+					alert(response["ErrorMsg"]);
+				} else {
+				verifyLoginComment(response["status"],response["auth"],response["user"],response["Cookie"],response["Handle"],response["Anon"]);
+			}},
+			function (error) {
+				var ifrm = document.createElement("IFRAME");
+				ifrm.setAttribute("src", "/sacramento/WhackBack?return=/sacramento/best-worst-of-wide/content%3Foid%3D29488708");
+				ifrm.style.width = 0+"px";
+				ifrm.style.height = 0+"px";
+				document.body.appendChild(ifrm); 
+				alert("This page generated an error.\n\nThe page is being rebuilt, and you will be redirected to the fresh page momentarily.\n\nPlease try again.");
+				setTimeout('window.location.reload(true);',2000);
+			}
+		);
+	}
+
+
+	function verifyLoginComment(status,auth,user,Cookie,Handle,Anon) {
+		var f3 = document.getElementById("f3");
+		if (auth != "") {
+			if (status == 0) {
+				alert("Your account has not been activated yet.\n\nPlease activate your account before proceeding.");
+				
+					var ifrm = document.createElement("IFRAME");
+					//ifrm.setAttribute("src", "/sacramento/WhackBack?return=/sacramento/local/MyNR");
+					ifrm.style.width = 0+"px";
+					ifrm.style.height = 0+"px";
+					document.body.appendChild(ifrm);
+					ifrm.src = '/sacramento/WhackBack?return=/sacramento/local/MyNR';
+					//alert("This page generated an error.\n\nThe page is being rebuilt, and you will be redirected to the fresh page momentarily.");
+					//setTimeout('window.location.reload(true);',2000);			
+					setTimeout(document.body.removeChild(ifrm),1000);
+					document.getElementById('auth').value = auth;
+					eraseCookie('login');
+					createCookie('login',user + ':' + Cookie,1);
+					createCookie('auth',auth,1);
+					setTimeout(window.open('/sacramento/local/MyNR','ActivateWindow'),2000);
+			} else {
+				document.getElementById('auth').value = auth;
+				document.getElementById('Anon').value = Anon;
+				eraseCookie('login');
+				createCookie('login',user + ':' + Cookie,1);
+				createCookie('auth',auth,1);
+				document.getElementById('CommentUser').innerHTML = ',&nbsp;' + Handle;
+				Effect.toggle('CommentLoginForm', 'blind', {queue: 'front', duration: '.25'});
+				Effect.toggle('leaveComment', 'blind', {queue: 'end', duration: '.25'});
+				document.getElementById('LoginOut').innerHTML = '<a href="/sacramento/Login?logout=1&amp;pub=sacramento" class="footer">logout</a>&nbsp;|&nbsp;<a href="/sacramento/Login?changePass=1" class="footer">change password</a><br />';
+				document.getElementById("CommentBtn_logout").style.cursor = "default";
+				document.body.style.cursor = "default";
+				setTimeout('window.scrollBy(0,300)',1000);
+			}
+		} else {
+			if (Anon == 0) {
+				alert("The password you entered doesn't match the password on file for the username you entered.  Please try again.");
+			} else {
+				alert("You cannot login anonymously with an email address that is already being used as a registered user on our system.");
+			};
+		}
+		f3.login_btn.disabled = false;
+	}
+    
+    function trim(stringToTrim) {
+		return stringToTrim.replace(/^\s+|\s+$/g,"");
+	}
+    
+	function cursor_wait() {
+	  document.body.style.cursor = 'wait';
+	}
+	
+	function cursor_clear() {
+	  document.body.style.cursor = 'default';
+	}
+    
+	function postComment() {
+		cursor_wait();
+		document.getElementById('submit_comment').disabled = true;
+		var fullName = "";
+		var phone = "";
+		var city = "";
+		var letter = 0;
+		var error = "";
+		var auth = document.getElementById('auth').value;
+		var Anon = document.getElementById('Anon').value;
+		var comment = document.getElementById('comment').value;
+		if (document.getElementById('letterEdit') != null) {
+			if (document.getElementById('letterEdit').checked == true) {
+				letter = 1;
+				fullName = document.getElementById('fullName').value;
+				phone = document.getElementById('phone').value;
+				city = document.getElementById('city').value;
+				if(fullName == ''){
+					error = "Please provide your full name.";
+				}
+				if(phone == ''){
+					error = error + "\nPlease provide your phone number.";
+				}
+				if(city == ''){
+					error = error + "\nPlease provide your city.";
+				}
+				if(error != '') {
+					document.getElementById('submit_comment').disabled = false;
+					cursor_clear();
+					alert(error);
+					return false;
+				}
+			}
+		}
+        if (trim(comment) != '') {
+			
+			
+			var params = { 
+				"ContentOid": '29488708', 
+				"auth": auth, 
+				"Anon": Anon,
+				"comment": comment, 
+				"letter": letter, 
+				"fullName": fullName,
+				"phone": phone,
+				"city": city,
+				"PublicKey": "1579880404", 
+				"hash": "bd2323526c99cb4ed43a0ca1cc6396cd" 
+			};
+			commentLib.runMacro("postComment", params, function (response) { 
+				if (response["status"] == 1) {
+					document.getElementById('comment').value = "";
+					if(letter == 1) {
+						Effect.toggle('persInfo', 'blind', {queue: 'front', duration: '.25'});
+						document.getElementById('fullName').value = '';
+						document.getElementById('phone').value = '';
+						document.getElementById('city').value = '';
+						document.getElementById('letterEdit').checked = false;
+					}
+					document.getElementById('submit_comment').disabled = false;
+					cursor_clear();
+					if(response["moderate"] == 1) {
+						if (response["Anonymous"]==1) {
+							alert("Your comment has been submitted, and is awaiting moderation.\n\nPlease remember to check your email and follow the link provided to validate your email address.\n\nYour comment will not appear on the site until you follow the link provided.");
+							logout();
+						} else {
+							alert("Your comment has been submitted, and is awating moderation");
+						}
+					} else {
+						if (response["Anonymous"]==1) {
+							alert("Thank you for your comment.\n\nPlease remember to check your email and follow the link provided to validate your email address.\n\nYour comment will not appear on the site until you follow the link provided.");
+							document.getElementById('anonUserName').value = '';
+							logout();
+						} else {
+							alert("Thank you for your comment.");
+							setTimeout('window.location.reload(true);',1000);
+						}
+					}
+					if (response["Anonymous"]==0) {
+						getComments();
+					}
+				} else { 
+					document.getElementById('submit_comment').disabled = false;
+					cursor_clear();
+					alert("Error: "+response["Error"]);
+				}
+        	})
+        } else {
+        	document.getElementById('submit_comment').disabled = false;
+        	cursor_clear();
+         	alert("Please enter a comment before submitting.");
+	    }
+	}
+    
+	function getComments() {
+		var auth = document.getElementById('auth').value;
+		
+		
+		var params = { "auth":auth, "ContentOid": '29488708', "ScriptAlias":'sacramento', "PublicKey": "1579880404", "hash": "c9a4867b1a479d3cf9735197bfff3983" };
+		commentLib.runMacro("getComment", params, function (response) { updateComments(response["CommentResults"],response["error"],response["NumComments"]) });
+	}
+    
+    function updateComments(Comments,error,NumComments){
+    	if (!error) {
+    		document.getElementById('CommentBody').innerHTML = Comments;
+    		if (NumComments > 0) {
+    			var tmpOut = '<br /><a href="#readComment">Read '+NumComments+' reader submitted comment';
+    		    if (NumComments > 1) {
+    		    	tmpOut = tmpOut + 's';
+    		    }
+    		    tmpOut = tmpOut + '</a><br /><br />';
+    		    document.getElementById('NumComments').innerHTML = tmpOut;
+			}
+		}
+    }
+    
+    function toggleInfo(){
+    	Effect.toggle('persInfo', 'blind', {queue: 'front', duration: '.25'});
+    }
+</script>
+
+
+<a name="readComment"></a>
+	<div id="commentModule">
+		<h3 class="sectionHeader">Reader Comments</h3>
+<div id="CommentBody">
+  
+  	<p>No comments yet. Be the first by posting your comment below.</p>
+  
+</div>
+
+    <div id="CommentLoginForm" style="display:none;">
+    <form class="ModuleForm" id="f3" name="f3" method="post">
+    <a name="postComment"></a>
+      <h3 class="sectionHeader">Sign in to submit a comment:</h3>
+      <input type="hidden" name="loginAttempt" value="1" />
+      <input type="hidden" name="LoginAction" value="" />
+      <div class="LoginError"></div>
+      <table width="100%">
+        <tr>
+          <td>
+            <label for="loginUserName" class="ContentBodyText">e-mail: </label>
+          </td>
+          <td>
+            <input type="text" id="loginUserName" name="loginUserName" value="" size="30" class="validate-email required" />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label for="loginPassword" class="ContentBodyText">password: </label>
+          </td>
+          <td>
+            <input type="password" id="loginPassword" name="loginPassword" value="" size="30" class="required" />
+          </td>          
+        </tr>
+      </table>
+      <input type="button" id="login_btn" value="SIGN IN" class="submit" onclick="javascript:logInComment();" />
+    </form>
+    <span class="noprint">
+    <br />Don't have a login yet? <strong><a href="/sacramento/local/MyNR?createAccount=1&LoginAction=/sacramento/best-worst-of-wide/content?oid=29488708" rel="nofollow">Join now!</a></strong>, it's fast and free!<br />Help! I <a href="/sacramento/local/MyNR?sendAttempt=1&sendPass=1&LoginAction=/sacramento/best-worst-of-wide/content?oid=29488708" rel="nofollow">forgot my password</a><br />
+    </span>
+
+	<form class="ModuleForm" id="f4" name="f4" method="post" action="">
+		<h3 class="sectionHeader">Post anonymous comment:</h3>
+		<input type="hidden" name="loginAttempt" value="1" />
+		<input type="hidden" name="LoginAction" value="" />
+		<input type="hidden" name="siteID" id="siteID" value="2572" />
+		<div class="LoginError"></div>
+		<table width="100%">
+			<tr>
+				<td colspan="2">
+					<span style="font-size:10px;">If you wish to comment anonymously, provide your valid email address here and you&#8217;ll be allowed to do so.</span><br /><br />
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<label for="anonUserName"  style="font-size:10px;">e-mail:</label>&nbsp;&nbsp;&nbsp;
+				</td>
+				<td>
+					<input type="text" id="anonUserName" name="anonUserName" value="" size="30" class="validate-email required" /><br /><br />
+				</td>
+				<tr>
+				<td colspan="2">	
+					<b><span style="font-size:10px;">You will be sent an email confirmation with a link that you must follow to validate your email address before your comment will appear on the site.</span></b>
+				</td>
+			</tr>
+		</table>
+		<input type="button" id="login_btn" value="SUBMIT" class="submit" onclick="javascript:postAnonymousComment();" />
+	</form>
+
+  </div>
+
+  
+  <div id="leaveComment" style="display:none;">
+  <h3 class="sectionHeader">Submit Your Comment<span id="CommentUser"></span></h3>  
+    
+        <b>Comments posted may be subject to moderation.</b><br />
+        Be nice. Sounds easy enough, right? Feel free to disagree with News &amp; Review, our staff or what the other users have to say&#8212;but keep it civil and relevant to the topic. Personal attacks or insults of any kind will be removed. Please see our <a href="http://www.newsreview.com/sacramento/terms_of_use/viewpage" target="_blank">terms of use</a> for more details.<br />
+    
+    <br />
+     <form method="post" action="/sacramento/Contact" id="ContactForm">
+       <input type="hidden" name="auth" id="auth" value="" />
+       <input type="hidden" name="Anon" id="Anon" value="0" />
+       <textarea id="comment" name="comment" style="overflow:auto;width:500px;height:200px;"></textarea>
+       <br /><br />
+		
+			
+			
+				
+			
+			
+			<input type="checkbox" id="letterEdit" name="letterEdit" value="1" onclick="javascript:toggleInfo();" checked="checked"><label for="letterEdit" id="letterEdit-L">Submit my comment as a letter to the editor.</label>
+			<div id="persInfo" style="margin-top:10px; display:inline;">
+				When submitting letters to the editor, we require the following information to be submitted for verification purposes:<br /><br />					<table>
+					<tr>
+						<td>Full Name:</td>
+						<td><input type="text" id="fullName" name="fullName" value="" /></td>
+					</tr>
+					<tr>
+						<td>Phone Number:</td>
+						<td><input type="text" id="phone" name="phone" value="" /></td>
+					</tr>
+					<tr>
+						<td>City:</td>
+						<td><input type="text" id="city" name="city" value="" /></td>
+					</tr>
+				</table>
+		    </div>
+		
+		<br /><br />
+		<input type="button" id="submit_comment" value="submit" onClick="javascript:postComment(1);" />
+       <br /><br /><a href="#" id="CommentBtn_logout" onclick="this.style.cursor='wait';logout();return false;">logout</a><br />
+     </form>
+   </div>
+   <h3 class="sectionHeader"></h3>
+  </div>
+
+
+
+
+
+					</div>
+				  </td>
+				  <td class="VertSpace"><img src="/images/spacer.gif" width="10" height="10" alt="" /></td>
+				  <td id="ContentInset">
+				  
+				  
+				  <table width="266" height="160">
+    <tr>
+      <td id="SearchBox"><div style="padding-bottom:0px;">SEARCH THE SITE</div>
+
+
+
+
+
+<form action="https://www.newsreview.com/sacramento/search" id="cse-search-box" style="margin: 0px; padding: 0px;">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0255682584571681:o7364jixubp" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="text" name="q" size="25" />
+    
+	    <input type="submit" name="sa" value=" GO " style="background-image:url(/images/mock/button.gif);border:1px solid #808181;color:#000;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;font-weight:bold;height:16px;padding-bottom:0px;"/>
+  </div>
+</form>
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+</td>
+    </tr>
+    
+    
+    <tr>
+      <td id="Login">
+
+  
+
+
+	
+
+	<div class="LoginLink">TOOLBOX</div><br />
+			<div style="text-align:center;">
+			<a href="/sacramento/PrintFriendly?oid=29488708" target="_new" rel="nofollow">PRINT FRIENDLY</a>&nbsp;&nbsp;&nbsp;<a href="/sacramento/MailThis?oid=29488708" rel="nofollow">E-MAIL THIS STORY</a>
+			<br /><br />
+			ADJUST FONT SIZE:&nbsp;&nbsp;<a href="javascript:decreaseFontSize();">SMALLER</a>&nbsp;&nbsp;<a href="javascript:increaseFontSize();">LARGER</a>	
+			<br /><br />
+			<a href="/sacramento/ContentFeed?oid=29488708" rel="nofollow">LINK TO THIS STORY ON YOUR SITE</a>
+			<br /><br />
+
+			
+				<div style="float:left;">
+					<a href="/sacramento/RSS.xml" rel="nofollow"><img src="/images/feed.gif" height="12" width="12" style="text-decoration:none;" /> RSS FEEDS</a>
+				</div>
+				<div style="float:right;">
+				<!-- AddThis Button BEGIN -->
+				<script type="text/javascript">var addthis_pub="ccpinc";</script>
+				<a href="https://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="https://s7.addthis.com/static/btn/lg-bookmark-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="https://s7.addthis.com/js/200/addthis_widget.js"></script><!-- AddThis Button END -->
+				</div>
+				<div style="clear:both;"></div>
+		</div>
+</td>
+    </tr>
+    
+  </table>
+  <img src="/images/spacer.gif" width="266" height="10" alt="" />
+  
+
+  
+  
+
+	
+    
+	
+		<table width="266">
+
+		
+		<!-- Testing -->
+          
+		
+			
+			<tr>
+				<td>
+					
+							
+
+
+
+
+<div id="free-stuff-wrapper">
+    <div id="free-stuff-content">
+        <a href="http://visitor.r20.constantcontact.com/d.jsp?llr=nst4z9fab&p=oi&m=1105780002381&sit=h9l6ntbgb&f=3bf8d06a-4e5c-4e6f-9d19-76d7a887b0d6">
+            <img src="/images/freestuff.jpg" alt="Sign up for free stuff!">
+        </a>
+
+        
+    </div>
+</div>
+
+					
+				</td>
+			</tr>
+			<tr>
+    <td class="VertSpace"><img src="/images/spacer.gif" width="266" height="10" alt="" /></td>
+  </tr>
+		
+			
+			<tr>
+				<td>
+					
+							<style type="text/css" media="screen">
+#sweetDealsWrapper {
+  width: 266px;
+  background-color:#CAEBF6;
+  text-align:left;
+}
+
+div#sweetDealsInner {
+	border: 1px solid #eee;
+}
+
+#sweetDealsWrapper a {
+  color: #000000;
+  font-size: 12px;
+  display: block;
+  text-decoration: none;
+	outline: none;
+}
+
+.sweetDealsHeaderImage {
+	border-bottom: 1px dashed #ffffff;
+	text-align: center;
+	background-color: transparent;
+}
+
+*.clear-float {
+	clear: both;
+}
+
+
+</style>
+
+<div id="sweetDealsWrapper">
+	<div id="sweetDealsInner">
+		
+      <a href="https://snrsweetdeals.newsreview.com" target="_blank">
+        <img class="sweetDealsHeaderImage" width="100%" src="https://www.newsreview.com/images/sweetdeals/SD_GyrobaseWidget_Header_sacramento.png" alt="Sacramento Sweet Deals Image" />
+      </a>
+
+      <iframe src="//newsreview.friends2follow.com/f2f/widget/html/socialstack/121/0/4/160/0/1/1/6" frameborder="0" height="400" width="100%" scrolling="no"></iframe>
+    
+
+		<div class="clear-float"></div>
+	</div>
+</div>
+
+					
+				</td>
+			</tr>
+			<tr>
+    <td class="VertSpace"><img src="/images/spacer.gif" width="266" height="10" alt="" /></td>
+  </tr>
+		
+			
+			<tr>
+				<td>
+					
+							
+
+<div>
+  <div data-cswidget="8417" > </div>
+</div>
+					
+				</td>
+			</tr>
+			<tr>
+    <td class="VertSpace"><img src="/images/spacer.gif" width="266" height="10" alt="" /></td>
+  </tr>
+		
+			
+			<tr>
+				<td>
+					
+							
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+
+<div id="artsculture-module" class="module-container">
+	<div id="artsculture-mod-inner" class="mod-inner">
+		<div id="artsculture-mod-title-img" class="module-title-image">
+			<a href="/sacramento/More?oid=36751"><img src="/images/mock/artsculture_title.gif" height="37" width="266" alt="Arts & Culture" class="ImgLink" /></a>
+		</div>
+        
+        
+        
+        
+		
+			
+			
+					<div class="mod-featured arts-&-culture">
+						<div class="mod-featured-image">
+								
+									
+										<a href="/sacramento/content?oid=29646371">
+											<img src="https://www.newsreview.com/imager/deodorant-a-dream/b/homefeatured/29646371/e7be/arts1-1.jpg" alt="Deodorant and a dream" title="Deodorant and a dream" />
+										</a>
+									
+								
+						</div>
+						<div class="mod-featured-title">
+							<a href="https://www.newsreview.com/sacramento/deodorant-a-dream/content?oid=29646371">
+								Deodorant and a dream
+							</a>
+						</div>
+						<div class="mod-featured-summary">
+							
+								How two comedians brought laughter to their living room.
+							
+						</div>
+					</div>
+					
+					
+					
+			
+		
+			
+			
+					<div class="unfeatured unfeatured-arts-&-culture">
+						<div class="mod-title">
+							
+							<a href="/sacramento/content?oid=29646372">
+								
+									Memories of murder
+								
+							</a>
+						</div>
+						
+							<div class="mod-summary">
+								Serial killer Dorothea Puente gets the stage treatment.
+							</div>
+						
+					</div>
+			
+		
+			
+			
+					<div class="unfeatured unfeatured-arts-&-culture">
+						<div class="mod-title">
+							
+							<a href="/sacramento/content?oid=29646373">
+								
+									California gold
+								
+							</a>
+						</div>
+						
+							<div class="mod-summary">
+								Impressionist scenes of California get new life at the Crocker.
+							</div>
+						
+					</div>
+			
+		
+		
+		
+		
+		<div class="unfeatured">
+			
+				<div class="mod-title"><a href="/sacramento/all?oid=36640">Visual Arts</a></div>      	
+				<div class="mod-title"><a href="/sacramento/all?oid=36570">Theater</a></div>
+				<div class="mod-title"><a href="/sacramento/all?oid=36572">Books</a></div>
+				<div class="mod-title"><a href="/sacramento/all?oid=38704">Local Poetry</a></div>                 
+				<div class="mod-title"><a href="/sacramento/all?oid=36576">Webwatch</a></div>
+				
+					<div class="mod-title"><a href="/sacramento/Artmap">Local Art Maps</a></div> 
+				
+			
+		</div>
+		
+		<div class="module-more">
+			<a href="/sacramento/arts_culture/more">MORE ARTS & CULTURE</a>
+		</div>
+	</div>
+</div>
+
+					
+				</td>
+			</tr>
+			
+		
+		</table>
+				  
+				  
+				  </td>
+				</tr>
+				<tr>
+				  <td colspan="3"><img src="/images/spacer.gif" width="822" height="10" alt="" /></td>
+				</tr>
+				
+				<tr>
+				  <td colspan="3" align="center"><table id="Footer"><tr><td><div id="Footer">
+		      
+		
+		
+		<a href="https://www.newsreview.com/sacramento/local_stories/more" class="footer">LOCAL&nbsp;STORIES</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/sacramento/opinions/more" class="footer">OPINIONS</a>&nbsp;|&nbsp;<a href="/sacramento/local/MyNR" class="footer">SUBSCRIBE</a>&nbsp;|&nbsp;<a href="/sacramento/calendar" class="footer">CALENDAR</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/sacramento/arts_culture/more" class="footer">ARTS&amp;CULTURE</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/sacramento/music/more" class="footer">MUSIC</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/sacramento/dining/more" class="footer">DINING</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/sacramento/film/more" class="footer">FILM</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/sacramento/guides/more" class="footer">GUIDES</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/sacramento/nr_events/more" class="footer">N&amp;R&nbsp;EVENTS</a>
+		<br />
+		
+		
+		
+		<a href="https://www.newsreview.com/chico/home" class="footer">CHICO N&amp;R</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/reno/home" class="footer">RENO N&amp;R</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/sacramento/home" class="footer">SAC N&amp;R</a>&nbsp;|&nbsp;  
+		<a href="https://www.newsreview.com/sacramento/privacy_policy/viewpage" class="footer">PRIVACY STATEMENT</a>&nbsp;| <a href="https://www.newsreview.com/sacramento/terms_of_use/viewpage" class="footer">TERMS OF USE</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/sacramento/contact_us/viewpage" class="footer">CONTACT US</a>&nbsp;|&nbsp;<a href="https://www.newsreview.com/sacramento/advertising_info/viewpage" class="footer">ADVERTISER SERVICES &amp; INFO</a>&nbsp;
+		<br />
+		
+		<div id="LoginOut"></div>
+		COPYRIGHT &#169;2020 CHICO COMMUNITY PUBLISHING, INC.<br /><br />
+		
+	</div></td></tr></table></td>
+				</tr>
+			  </table>
+			  
+</td>
+            <td width="10"><img src="/images/spacer.gif" width="10" height="10" alt="" /></td>
+            <td width="160" class="noprint">
+				
+                
+				
+				<div id='div-gpt-ad-nr-160x60-1' style='height:60px; width:160px;'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-nr-160x60-1'); });
+        </script>
+      </div>
+
+		  <img src="/images/spacer.gif" alt="spacer" height="10" />
+		
+      <div id='div-gpt-ad-nr-160x60-2' style='height:60px; width:160px;'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-nr-160x60-2'); });
+        </script>
+      </div>
+
+		  <img src="/images/spacer.gif" alt="spacer" height="10" />
+		
+
+    
+    <div id="spotlight-showcase">
+      <a href="https://spotlight.newsreview.com/" target="_blank">
+        <img id="spotlight-logo" src="/images/logo/nrspotlight.png">
+      </a>
+
+      <div id="spotlight-content">
+        <h3>Most Recent Sponsored Posts</h3>
+
+        
+
+        
+
+        
+          
+          
+          
+          
+
+          <div class="spotlight-post">
+            <span class="spotlight-post-title">
+              <a href="https://spotlight.newsreview.com/nr-publications/community/custom-treasures/" target="_blank">Custom Treasures</a>
+            </span>
+            <span class="spotlight-post-site-name"><i>N&#38;R Publications</i></span>
+            <span class="spotlight-post-post-date">01.23.2020</span>
+          </div>
+        
+          
+          
+          
+          
+
+          <div class="spotlight-post">
+            <span class="spotlight-post-title">
+              <a href="https://spotlight.newsreview.com/del-paso-boulevard-partnership/community/retro-chic-oasis-offers-more-than-room/" target="_blank">Retro chic oasis offers more than room</a>
+            </span>
+            <span class="spotlight-post-site-name"><i>Del Paso Boulevard Partnership</i></span>
+            <span class="spotlight-post-post-date">01.23.2020</span>
+          </div>
+        
+          
+          
+          
+          
+
+          <div class="spotlight-post">
+            <span class="spotlight-post-title">
+              <a href="https://spotlight.newsreview.com/seiu/labor/yvonne-r-walker-why-i-march-with-rev-barber/" target="_blank">Yvonne R. Walker: Why I march with Rev. Barber</a>
+            </span>
+            <span class="spotlight-post-site-name"><i>SEIU Local 1000</i></span>
+            <span class="spotlight-post-post-date">01.22.2020</span>
+          </div>
+        
+          
+          
+          
+          
+
+          <div class="spotlight-post">
+            <span class="spotlight-post-title">
+              <a href="https://spotlight.newsreview.com/nr-publications/community/its-easy-being-green/" target="_blank">It’s Easy Being Green</a>
+            </span>
+            <span class="spotlight-post-site-name"><i>N&#38;R Publications</i></span>
+            <span class="spotlight-post-post-date">01.16.2020</span>
+          </div>
+        
+          
+          
+          
+          
+
+          <div class="spotlight-post">
+            <span class="spotlight-post-title">
+              <a href="https://spotlight.newsreview.com/del-paso-boulevard-partnership/community/a-gathering-place-to-create-and-read/" target="_blank">A gathering place to create (and read)</a>
+            </span>
+            <span class="spotlight-post-site-name"><i>Del Paso Boulevard Partnership</i></span>
+            <span class="spotlight-post-post-date">01.16.2020</span>
+          </div>
+        
+          
+          
+          
+          
+
+          <div class="spotlight-post">
+            <span class="spotlight-post-title">
+              <a href="https://spotlight.newsreview.com/california-endowment/community/one-woman-of-color-is-making-history-in-sacramentos-growing-cannabis-industry/" target="_blank">One Woman of Color is Making History in Sacramento’s Growing Cannabis Industry</a>
+            </span>
+            <span class="spotlight-post-site-name"><i>California Endowment</i></span>
+            <span class="spotlight-post-post-date">01.16.2020</span>
+          </div>
+        
+
+      </div>
+    </div>
+
+		
+		<div id='div-gpt-ad-nr-160x600' style='height:600px; width:160px;'>
+			<script>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-nr-160x600'); });
+			</script>
+		</div>
+
+		<img src="/images/spacer.gif" alt="spacer" height="10" />
+		
+		
+			<div id='div-gpt-ad-nr-160x180-1' style='height:180px; width:160px;'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-nr-160x180-1'); });
+        </script>
+      </div>
+			<img src="/images/spacer.gif" alt="spacer" height="10" />
+		
+			<div id='div-gpt-ad-nr-160x180-2' style='height:180px; width:160px;'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-nr-160x180-2'); });
+        </script>
+      </div>
+			<img src="/images/spacer.gif" alt="spacer" height="10" />
+		
+			<div id='div-gpt-ad-nr-160x180-3' style='height:180px; width:160px;'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-nr-160x180-3'); });
+        </script>
+      </div>
+			<img src="/images/spacer.gif" alt="spacer" height="10" />
+		
+			<div id='div-gpt-ad-nr-160x180-4' style='height:180px; width:160px;'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-nr-160x180-4'); });
+        </script>
+      </div>
+			<img src="/images/spacer.gif" alt="spacer" height="10" />
+                
+            </td>
+            <td width="1"><img src="/images/spacer.gif" width="1" height="1" alt="" /></td>
+
+<script type="text/javascript">
+<!--
+  if (dnReadCookie('fontsize')) {
+	currentTextSize = parseInt(dnReadCookie('fontsize'));
+  }
+  else{
+	currentTextSize = 10;
+	}
+	window.onload = function() {changeFontSize(currentTextSize);};
+//-->    
+</script>
+	
+</tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+            
+              <script type="text/javascript">
+                // Do not load comments
+                // load login macro
+                pageLoad();
+              </script>
+             
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-350918-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+
+
+
+	<!-- Quantcast Tag -->
+	<script type="text/javascript">
+	var _qevents = _qevents || [];
+	
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+	
+	_qevents.push([{
+	qacct:"p-a3cu3LAKt4BMg" // News Review
+	},
+	{
+	qacct:"p-7apeS9pNVYMQo" // Alternative Weekly Network
+	}]);
+	</script>
+	
+	<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel?a.1=p-a3cu3LAKt4BMg&a.2=p-7apeS9pNVYMQo" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+	</noscript>
+	<!-- End Quantcast tag -->
+
+
+<script type="text/javascript" async defer src="//cdn.cityspark.com/wid/get.js" > </script>
+
+
+
+
+</body>
+</html>
