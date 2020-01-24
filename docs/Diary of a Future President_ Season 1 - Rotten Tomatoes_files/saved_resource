@@ -1,0 +1,32 @@
+
+var ftGUID_3586206="440629424F42BC";
+var ftConfID_3586206="17933281";
+var ftParams_3586206="ftx=&fty=&ftadz=&ftscw=&ft_custom=1781800_23288334_258616852&ft_section=fthometheatertf&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Ftpc.googlesyndication.com%2Fsafeframe%2F1-0-37%2Fhtml%2Fcontainer.html&ft_keyword=fthometheatertf&cachebuster=379436.9698278239";
+var ftKeyword_3586206="hometheater,fthometheatertf";
+var ftCustom_3586206="1781800_23288334_258616852";
+var ftSection_3586206="fthometheatertf";
+var ftSegment_3586206="";
+var ftSegmentList_3586206=[];
+var ftRuleMatch_3586206="00010000";
+var ftTimestamp_3586206="1579890884";
+var ftGeoC2_3586206="us";
+var ftGeoState_3586206="ut";
+var ftGeoCity_3586206="draper";
+var ftISP_3586206="utah education network";
+var ftSpeed_3586206="broadband";
+var ftDMA_3586206="770";
+var ftLong_3586206="-111.87";
+var ftLat_3586206="40.5111";
+var ftPostal_3586206="84020";
+var ftTimeZone_3586206="-700";
+var ftMobileCarrier_3586206="";
+var ftImp3586206 = {};
+ftImp3586206.privacy = "x";
+ftImp3586206.guidAge = "0";
+ftImp3586206.impID = "3373B3B2-E40D-A6C3-7D29-10F9CE159AD4";
+ftImp3586206.duid = "FT:440629424F42BC";
+
+ftImp3586206.ft_tpplid = "";
+ftImp3586206.ft_c = {};
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/358/3586206/2225756/js/j-3586206-2225756.js" id="ftscript_m3586206" name="ftscript_m3586206"></scr'+'ipt>');
