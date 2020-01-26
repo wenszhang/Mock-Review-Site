@@ -3,4 +3,4 @@
 *.xml
 *.iml
 *.file
-docs/test.html
+*test
